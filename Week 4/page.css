@@ -1,0 +1,39 @@
+#top-head{
+	text-align: center; 
+	color: white; 
+	font-family: impact, charcoal,sans-serif
+}
+#head-descript{
+	text-align: center;
+	 color: black;
+	font-weight: bolder
+}
+.nav{
+	color: white
+}
+#descr{
+	color: #FFC300
+}
+#course-table{
+	border: none;
+	width: 100%;
+	padding: 8pt;
+}
+.data{
+	color:#DAF7A6; 
+	font-size: 14pt
+}
+#foot{
+	position: absolute;  
+	bottom: 0;  
+	width: 99%;  
+	height: 60px; 
+	color: #F7DC6F; 
+	font-size: 10pt; 
+	text-align: center;
+}
+
+#date{
+	color: #F7DC6F;
+	font-weight: 1000;	
+}
